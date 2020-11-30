@@ -4,6 +4,9 @@ function App() {
   return (
     <div>
       <Smari />
+    </div>,
+    <div>
+      <Ari />
     </div>
   );
 }
